@@ -1,2 +1,3 @@
 # OPTIMIZACION-BAYESIANA
-Curso son conceptos de optimización bayesiana
+Curso con conceptos de optimización bayesiana
+
