@@ -9,6 +9,6 @@ Tenemos dos variables aleatorias A y B, entonces:
 
 **Distribución Conjunta:** p(A,B). Se puede leer como p de A **y** B. A partir de la distribución conjunta se pueden calcular las distribuciones Marginales y Condicionales.
 
-
+![Imagen2](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/Dis%20Condicional.PNG?raw=true)
 
 **Distribución Condicional:** p(A|B),p(B|A). Se puede leer como **P de A**, dado **B**; y **P de B**, dado **A**
