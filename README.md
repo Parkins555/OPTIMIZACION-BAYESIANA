@@ -1,4 +1,4 @@
-# OPTIMIZACION-BAYESIANA
+# ESTADÍSTICA-BAYESIANA-CON-PYTHON
 Curso con conceptos de optimización bayesiana
 ## DISTRIBUCIÓN CONJUNTA MARGINAL Y CONDICIONAL
 Tenemos dos variables aleatorias A y B, entonces:
