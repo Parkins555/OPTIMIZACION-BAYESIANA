@@ -18,3 +18,5 @@ En la siguiente imagen se muestra un diagrama de Venn, en el que el rectángulo 
 ![Imagen 3](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/diagrama%20venn.PNG?raw=true)
 
 Posteriormente, si nos llega información de que el evento B ha ocurrido, entonces la incertidumbre se reduce a B, entinces B sería el nuevo espacio muestral. Por lo tanto, las probabilidades A1, A2 y A3 cambian de acuerdo a la nueva información. Como se muestra en la imagen la probabilidades de A3 dado que ya ocurrió B sería cero 
+
+![imagen 4](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/diagrama%20de%20venn%202.PNG?raw=true)
