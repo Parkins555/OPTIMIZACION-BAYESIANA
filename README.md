@@ -28,5 +28,7 @@ Y se lee como: la probabilidad de A dado B es igual a la probabilidad de la inte
 
 ![Imagen 6](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/formula%202.PNG?raw=true)
 ![Imagen 7](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/formula%203.PNG?raw=true)
+
 La siguiente expresión es una primer forma de la REGLA DE BAYES
+
 ![Imagen 8](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/regla%20de%20bayes.PNG?raw=true)
