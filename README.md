@@ -27,3 +27,4 @@ A continuación, se muestran algunas fórmulas para calcular la probabilidad con
 Y se lee como: la probabilidad de A dado B es igual a la probabilidad de la intersección de A con B, dividido entre la probabilidad de B. En cambio si queremos calcular la probabilidad de B dado A, lo único que cambia en la operación es el denominador, el cual es la probabilida de A. De la ecuación observamos que la probabilidad de A dado B es DIFERENTE a la probabilidad de B dado A.
 
 ![Imagen 6](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/formula%202.PNG?raw=true)
+![Imagen 7](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/formula%203.PNG?raw=true)
