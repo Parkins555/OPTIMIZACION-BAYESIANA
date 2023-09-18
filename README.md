@@ -35,3 +35,5 @@ La siguiente expresión es una primer forma de la REGLA DE BAYES
 ![Imagen 9](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/GENERAL.PNG?raw=true)
 
 ![Imagen 10](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/regla%20de%20bayes%202.PNG?raw=true)
+
+EJEMPLO: Veamos el ejemplo de un "sidómetro", un aparato que al soplar determina si la persona tiene el virus de inmunodeficiencia humana
