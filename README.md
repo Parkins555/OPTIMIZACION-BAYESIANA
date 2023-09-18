@@ -20,3 +20,5 @@ En la siguiente imagen se muestra un diagrama de Venn, en el que el rectángulo 
 Posteriormente, si nos llega información de que el evento B ha ocurrido, entonces la incertidumbre se reduce a B, entonces B sería el nuevo espacio muestral. Por lo tanto, las probabilidades A1, A2 y A3 cambian de acuerdo a la nueva información. Como se muestra en la imagen la probabilidades de A3 dado que ya ocurrió B sería cero. En cambio, la probabilidad del evento A2 dado que B ocurrió, es mayor a la probabilidad del evento A1 dado que B ocurrió. Aquí como ya ocurrió el evento B no importa que el área de A1 sea mayor que el área A2, ya que A2 abarca mucho más área (más probabilidad) que A1 de acuerdo al evento B
 
 ![imagen 4](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/diagrama%20de%20venn%202.PNG?raw=true)
+
+A continuación, se muestran algunas fórmulas para calcular la probabilidad condicional
