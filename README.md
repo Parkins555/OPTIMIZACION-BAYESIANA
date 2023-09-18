@@ -22,3 +22,4 @@ Posteriormente, si nos llega información de que el evento B ha ocurrido, entonc
 ![imagen 4](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/diagrama%20de%20venn%202.PNG?raw=true)
 
 A continuación, se muestran algunas fórmulas para calcular la probabilidad condicional
+![Imagen 5](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/formula.PNG?raw=true)
