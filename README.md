@@ -15,3 +15,4 @@ Tenemos dos variables aleatorias A y B, entonces:
 
 En la siguiente imagen se muestra un diagrama de Venn, en el que el rectángulo grande representa el espacio muestral y tenemos 4 subconjuntos de ese espacio muestral, los cuales representan eventos de interés. El área que abarca cada evento representa su probabilidad, por ejemplo, la probabilidad del evento A1 es más grande que la probabilidad del evento A3
 
+![Imagen 3](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/diagrama%20venn.PNG?raw=true)
