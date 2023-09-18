@@ -33,4 +33,5 @@ La siguiente expresión es una primer forma de la REGLA DE BAYES
 
 ![Imagen 8](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/regla%20de%20bayes.PNG?raw=true)
 ![Imagen 9](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/GENERAL.PNG?raw=true)
+
 ![Imagen 10](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/regla%20de%20bayes%202.PNG?raw=true)
