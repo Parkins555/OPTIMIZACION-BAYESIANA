@@ -12,3 +12,6 @@ Tenemos dos variables aleatorias A y B, entonces:
 **Distribución Condicional:** p(A|B),p(B|A). Se puede leer como **P de A**, dado **B**; y **P de B**, dado **A**. Por ejemplo, en la imagen podemos observar que una de las CONDICIONES es el tiempo, es decir, aquellos alumnos que estudiaron de 41-60 minutos, y usando esa condición podemos calcular el porcentaje de alumnos que sacaron cierta calificacion estudiando exclusivamente en este tiempo estimado.
 
 ![Imagen2](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/Dis%20Condicional.PNG?raw=true)
+
+En la siguiente imagen se muestra un diagrama de Venn, en el que el rectángulo grande representa el espacio muestral y tenemos 4 subconjuntos de ese espacio muestral, los cuales representan eventos de interés. El área que abarca cada evento representa su probabilidad, por ejemplo, la probabilidad del evento A1 es más grande que la probabilidad del evento A3
+
