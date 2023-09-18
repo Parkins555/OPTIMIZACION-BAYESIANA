@@ -23,3 +23,5 @@ Posteriormente, si nos llega información de que el evento B ha ocurrido, entonc
 
 A continuación, se muestran algunas fórmulas para calcular la probabilidad condicional
 ![Imagen 5](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/formula.PNG?raw=true)
+
+Y se lee como: la probabilidad de A dado B es igual a la probabilidad de la intersección de A con B, dividido entre la probabilidad de B. En cambio si queremos calcular la probabilidad de B dado A, lo único que cambia en la operación es el denominador, el cual es la probabilida de A. De la ecuación observamos que la probabilidad de A dado B es DIFERENTE a la probabilidad de B dado A.
