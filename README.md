@@ -36,4 +36,10 @@ La siguiente expresión es una primer forma de la REGLA DE BAYES
 
 ![Imagen 10](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/regla%20de%20bayes%202.PNG?raw=true)
 
-EJEMPLO: Veamos el ejemplo de un "sidómetro", un aparato que al soplar determina si la persona tiene el virus de inmunodeficiencia humana
+EJEMPLO: Veamos el ejemplo de un "sidómetro", un aparato que al soplar determina si la persona tiene el virus de inmunodeficiencia humana. Donde: 
+
+A= El aparato diagnostiva VIH
+B= La persona efcetivamente tiene VIH
+
+Se nos presenta además la siguiente informaciön:
+P(A|B)=0.99=P(A <sup> c </sup> | B <sup> c </sup>)
