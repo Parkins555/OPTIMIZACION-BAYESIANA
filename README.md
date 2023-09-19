@@ -41,5 +41,10 @@ EJEMPLO: Veamos el ejemplo de un "sidómetro", un aparato que al soplar determin
 A= El aparato diagnostiva VIH
 B= La persona efcetivamente tiene VIH
 
-Se nos presenta además la siguiente informaciön:
+Se nos presenta además la siguiente información:
+
 P(A|B)=0.99=P(A <sup> c </sup> | B <sup> c </sup>)
+
+Se puede interpretar que en el 99% de los casos de las personas con las que se provó que se sabía que tenían VIH el aparato A confirmó que había VIH. D ei igual manera, al probarlo con personas que se sabía que no tenían VIH, en el 99% de los casos el aparato A dijo que no había VIH. Tenemos entonces que: 
+
+P(B)=p     tasa de prevalencia de VIH
