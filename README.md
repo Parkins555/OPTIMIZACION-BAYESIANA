@@ -56,4 +56,6 @@ Por ejemplo, para que la probabilidad **P(B|A)** sea igual a la probabilidad **P
 
 ![Tasa de prevalencia](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/tasa%20de%20prevalencia.PNG?raw=true)
 
+En la siguiente imagen se observan diferentes valores de tasas de prevalencia, por ejemplo, la tasa de prevalencia en México es 0.002 o 0.2% y la probabilidad de que la persona realmente tenga VIH es del 16.6%, es decir, que si el aparato dice que la persona tiene VIH, ese resultado solo es 16.6% confiable
+
 ![Tasas de prevalencia](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/tasas%20de%20prevalencia.PNG?raw=true)
