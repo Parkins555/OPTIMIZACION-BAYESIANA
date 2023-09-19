@@ -52,5 +52,6 @@ P(B)=p     tasa de prevalencia de VIH
 Y queremos calcular la probabilidad de B dado A:
 
 P(B|A)=?  Es decir, queremos saber si la persona tiene VIH, dado que el aparato precisamente funciona para determinar eso. Se observa que dependiendo la tasa de prevalencia, la probabilidad **P(B|A)** será igual, mayor o menos que la probabilidad **P(A|B)**
+Por ejemplo, para que la probabilidad **P(B|A)** sea igual a la probabilidad **P(A|B)**, la tasa de prevalencia debe ser de 0.5, tal y como se observa en la imagen.
 
 ![Tasa de prevalencia](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/tasa%20de%20prevalencia.PNG?raw=true)
