@@ -67,3 +67,4 @@ C= cáncer de pulmón
 P(F|C)=0.85  Se lee como la probabilidad de ser fumador dado que tiene cáncer de pulmón.
 
 Ahora queremos calcular la probabilidad P(C|F)=?  que sería la probabilidad de tener cáncer de pulmón dado que es una persona fumadora
+![Ejercicio2](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/ejemplo%202.PNG?raw=true)
