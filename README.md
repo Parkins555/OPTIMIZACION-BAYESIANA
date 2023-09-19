@@ -59,3 +59,11 @@ Por ejemplo, para que la probabilidad **P(B|A)** sea igual a la probabilidad **P
 En la siguiente imagen se observan diferentes valores de tasas de prevalencia, por ejemplo, la tasa de prevalencia en México es 0.002 o 0.2% y la probabilidad de que la persona realmente tenga VIH es del 16.6%, es decir, que si el aparato dice que la persona tiene VIH, ese resultado solo es 16.6% confiable
 
 ![Tasas de prevalencia](https://github.com/Parkins555/OPTIMIZACION-BAYESIANA/blob/main/tasas%20de%20prevalencia.PNG?raw=true)
+
+EJEMPLO 2: Fumadores
+Se dice que el 85% de los pacientes con cáncer de pulmón son fumadores.
+F= fumadores
+C= cáncer de pulmón
+P(F|C)=0.85  Se lee como la probabilidad de ser fumador dado que tiene cáncer de pulmón.
+
+Ahora queremos calcular la probabilidad P(C|F)=?  que sería la probabilidad de tener cáncer de pulmón dado que es una persona fumadora
