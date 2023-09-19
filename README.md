@@ -48,3 +48,7 @@ P(A|B)=0.99=P(A <sup> c </sup> | B <sup> c </sup>)
 Se puede interpretar que en el 99% de los casos de las personas con las que se provó que se sabía que tenían VIH el aparato A confirmó que había VIH. D ei igual manera, al probarlo con personas que se sabía que no tenían VIH, en el 99% de los casos el aparato A dijo que no había VIH. Tenemos entonces que: 
 
 P(B)=p     tasa de prevalencia de VIH
+
+Y queremos calcular la probabilidad de B dado A:
+
+P(B|A)=?  Es decir, queremos saber si la persona tiene VIH, dado que el aparato precisamente funciona para determinar eso. Se observa que dependiendo la tasa de prevalencia, la probabilidad **P(B|A)** será igual, mayor o menos que la probabilidad **P(A|B)**
